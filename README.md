@@ -1,3 +1,1 @@
-# Girasol
-# flores
 # flores
